@@ -89,7 +89,7 @@ Step 4: Install Windows 11
 4.	Set Up Windows 11:
    Once installation is complete, follow the setup instructions to configure your preferences, connect to the internet, and create or log into your Microsoft account.
 
-![alt text](image.png)
+![alt text](/microsoft_window.png)
 By following these steps, you can successfully download, install, and set up Windows 11 on your PC. For more details, visit the Microsoft Windows 11 Download Page.
 
 How to Install Visual Studio Code
@@ -114,13 +114,13 @@ For Windows:
       Click Install.
    3.	Launch Visual Studio Code:
       Once the installation is complete, click Finish to launch Visual Studio Code.
-      ![alt text](image.png)
+      ![alt text](/visual_studio.png)
 
 How to Set Up Git and GitHub
 
 Step 1: Install Git
 
-![alt text](image.png)
+![alt text](/git.png)
 
 For Windows:
    1.	Download Git:
@@ -142,7 +142,7 @@ Step 2: Configure Git
 
 Step 3: Create a GitHub Account
    1.	Sign Up for GitHub:
-   ![alt text](image.png)
+   ![alt text](/github_signup.png)
       
    Go to the GitHub sign-up page.
    Fill in your details, choose a username, and create an account.
@@ -167,7 +167,7 @@ Step 5: Push to GitHub
    1.	Create a New Repository on GitHub:
       Go to GitHub and click on the + icon in the top right corner.
       Select New repository, name it, and click Create repository.
-   ![alt text](image.png)
+   ![alt text](/new_repository.png)
 
    2.	Link Local Repository to GitHub:
       -  Copy the repository URL provided by GitHub.
@@ -186,7 +186,7 @@ How to Install Python and Set Up Your Environment
 Step 1: Download Python
 
 1.	Go to the Official Python Website:
-![alt text](image.png)
+![alt text](/python.png)
    -	Visit Python.org.  
 
 2.	Download the Installer:
@@ -194,7 +194,7 @@ Step 1: Download Python
    -  Select the version appropriate for your operating system (Windows, macOS, Linux). 
 
 Step 2: Install Python
-![alt text](image.png)
+![alt text](/python_setup.png)
 
 For Windows:
 1.	Run the Installer:
@@ -205,21 +205,21 @@ For Windows:
    Follow the prompts to complete the installation.
 3.	Verify Installation: 
    Open Command Prompt and type: 
-![alt text](image.png)
+![alt text](/python_version.png)
 
 Step 3: Install Necessary Tools
    1.	pip (Python Package Installer):
    	pip is included with Python 3.4+.
    Verify by typing:
-   ![alt text](image.png)
+   ![alt text](/pip_version.png)
 
    2.	Virtual Environment (venv):
       Create a virtual environment for your project:
-   ![alt text](image.png)
+   ![alt text](/virtual_env.png)
    
    Activate the virtual environment:
    Windows: 
-   ![alt text](image.png)
+   ![alt text](/activate_venv.png)
 
 Step 4: Install Project Dependencies
    1.	Using pip:
@@ -233,7 +233,7 @@ By following these steps, you can successfully install Python, set up a virtual 
 Step 1: Download MySQL Installer
 
 Visit the MySQL download page for Windows: https://dev.mysql.com/downloads/windows/installer/5.7.html
-![alt text](image.png)
+![alt text](/mysql_download.png)
 
 Click on the "Download" button for the MySQL Installer.
 
@@ -249,7 +249,7 @@ In the "Select Products and Features" screen, select the following components:
 -  Connector/ODBC
 
 Click "Next".
-![alt text](image.png)
+![alt text](/mysql_installer.png)
 
 Step 4: Configure Server Settings
 
@@ -259,7 +259,7 @@ In the "Configure Server Settings" screen:
    -  Select the "TCP/IP" protocol and click "Configure".
    -  Verify that the IP address is set to "0.0.0.0" (allows connections from any IP address).
    -  Click "OK" and then "Next".
- ![alt text](image.png)
+ ![alt text](/mysql_route_config.png)
 
 Step 5: Install
 
@@ -271,8 +271,8 @@ Step 6: Post-Installation
 Once the installation is complete, click "Finish".
 
 Open MySQL Workbench and create a new database and tables as needed.
-![alt text](image.png)
-![alt text](image.png)
+![alt text](/mysql_workbench.png)
+![alt text](/mysql_database.png)
 
 By following these steps, you can download, install, and configure MySQL on your Windows machine. This setup will allow you to manage and interact with MySQL databases effectively.
 
@@ -292,7 +292,7 @@ Step 2: Explore Extensions
    2.	Browse Categories:
       Browse through categories like "Popular", "Installed", "Recommended", etc.
 
-   ![alt text](image.png)
+   ![alt text](/vscode_ext.png)
 
 Step 3: Install Extensions
    1.	Select an Extension:
@@ -302,7 +302,7 @@ Step 3: Install Extensions
    3.	Reload VS Code:
       Some extensions might require reloading VS Code. Click the Reload button if prompted.
 
-   ![alt text](image.png)
+   ![alt text](/vscode.extns.png)
 
 Step 4: Configure Extensions
    1.	Access Extension Settings:
